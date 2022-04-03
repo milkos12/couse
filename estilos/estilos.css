@@ -6,4 +6,7 @@ body{
     text-align: center;
     background-color: #f3f3f3;
 }
+#body{
+    border: black solid 1px;
+}
 
