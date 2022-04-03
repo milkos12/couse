@@ -6,7 +6,12 @@ body{
     text-align: center;
     background-color: #f3f3f3;
 }
+<<<<<<< HEAD
 #body{
     border: black solid 1px;
+=======
+#head{
+    background-color: blue;
+>>>>>>> cabecera
 }
 
