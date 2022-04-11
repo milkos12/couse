@@ -2,5 +2,6 @@ entro al colegio
 estudio en tris
 tirte historias
 aprendÃ­
+nuevo commit para provar rabase 
 a small edit 
-esta es una lÃnea desde Super git 
+esta es una lï¿½nea desde Super git 
