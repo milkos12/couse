@@ -2,6 +2,8 @@ entro al colegio
 estudio en tris
 tirte historias
 aprendí
-nuevo commit para provar rabase 
+nuevo commit para provar rabase
+
+experiminto 2
 a small edit 
 esta es una l�nea desde Super git 
